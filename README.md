@@ -1,1 +1,0 @@
-# tom_tat_luat_-_get_periods
