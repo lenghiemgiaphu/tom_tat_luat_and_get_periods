@@ -1,4 +1,4 @@
-#H1 README.md
+# README.md
 1) tom_tat_luat.md: bản tóm tắt luật bản 3, đã hợp nhất rulebook train + public (thêm 3 ngành Mẹ và bé, Sửa xe, Điện thoại; thêm danh hiệu như khách sộp, giờ cao điểm) và mục 9 "Bẫy thường gặp" kèm ví dụ. T làm hơi dài xíu, để ý token prompt. 
 
 2) get_periods.py + test_get_periods.py: hàm kỳ thời gian theo rulebook §2 (hôm nay/qua, tuần, tháng, quý, N ngày gần nhất, Tết và trước Tết, ca sáng/chiều). Chỉ cần pandas. Mọi kỳ là (start, end) gồm cả hai đầu; lọc bằng in_period(series, period), đừng tự so <= end vì sẽ mất đơn có giờ của ngày cuối. Chạy test: python -m unittest test_get_periods -v (cần calendar.csv cạnh file test, đã có trong repo; mình chạy ra 32 test OK). Khi chạy thật phải đọc calendar trong /data của từng bộ, không ghi cứng.
