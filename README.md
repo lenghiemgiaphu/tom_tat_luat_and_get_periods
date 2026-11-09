@@ -1,3 +1,4 @@
+##README.md
 
 1) tom_tat_luat.md: bản tóm tắt luật bản 3, đã hợp nhất rulebook train + public (thêm 3 ngành Mẹ và bé, Sửa xe, Điện thoại; thêm danh hiệu như khách sộp, giờ cao điểm) và mục 9 "Bẫy thường gặp" kèm ví dụ. T làm hơi dài xíu, để ý token prompt. 
 
