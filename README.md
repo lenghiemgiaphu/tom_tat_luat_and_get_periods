@@ -10,5 +10,5 @@
 Chưa làm: "cùng kỳ năm ngoái", "quý này", kỳ so của "tuần này" (rulebook không định nghĩa). Gặp các câu này thì theo chữ câu hỏi hoặc abstain.
 
 Hai việc cần nhóm quyết:
-- Giao diện agent ↔ hàm: agent import các hàm này, hay đọc file thô bằng pandas? Thịnh chờ chốt trước khi sinh data finetune.
+- Giao diện agent ↔ hàm: agent import các hàm này, hay đọc file thô bằng pandas? Thịnh chờ chốt trước khi sinh data finetune. Từ đó t mới tiếp tục làm phần hàm lọc đơn hợp lệ được.
 - Đề xuất: lúc chạy, nạp thêm rulebook.md của bộ đang chạy (khoảng 24 KB) vào prompt cùng bản tóm tắt, để private có ngành mới thì luật tự vào. Bản giải pháp khoá 23:59 ngày 16/11, trước khi private phát, nên không vá tay được.
